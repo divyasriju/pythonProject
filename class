@@ -1,0 +1,7 @@
+
+
+import datetime
+
+dob = datetime.date(1982,8,7)
+
+print (" my dob is "+dob)
